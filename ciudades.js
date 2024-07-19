@@ -29,7 +29,7 @@ export {
     londres
 };
 
-// const { barcelona, roma, paris, londres } = require('./ciudades');
+// const { barcelona, roma, paris, londres } = require('./ciudades'); test
 
 //ES6
 // export { objeto1, objeto2 };
